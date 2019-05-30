@@ -1,6 +1,6 @@
 {
   "name": "rdstation-nodejs-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lib integration rdstation 2.0",
   "main": "index.js",
   "scripts": {

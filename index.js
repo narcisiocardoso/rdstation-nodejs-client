@@ -1,6 +1,2 @@
-const rdstation = require('./lib/rdstation')
-
-module.exports = {
-    rdstation
-}
+module.exports = require('./lib/rdstation')
 
